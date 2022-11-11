@@ -15,7 +15,8 @@
  - Git and Github
 ### Backend
 - NodeJS
-- MySQL
+- mongodb
+- expressjs
 
 ## Team
 - [Aditya Sharma](https://github.com/adi-wav)
